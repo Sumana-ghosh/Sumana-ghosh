@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumana Ghosh
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning MS Excel, MySQL, and PowerBi
+- 🌱 I’m currently learning MS Excel, MySQL, PowerBi, and python programming for Data Analysis
 - 📫 You can reach me at sumana.2c@gmail.com
 
 <!---
